@@ -17,5 +17,5 @@ Outside of school and software projects, I love to spend time in the outdoors wi
 
 
 You can reach me through...
-- website: [lsburton.com](http//:www.lsburton.com)
+- website: lsburton.com
 - email: lukesburton19@gmail.com
