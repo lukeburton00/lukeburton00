@@ -14,5 +14,5 @@ Some of my more recent projects include...
 Outside of school and software projects, I love to spend time in the outdoors with activities like backpacking, rock climbing, and tennis!
 
 You can reach me through...
-- website: lsburton.com
+- website: [lsburton.com](lsburton.com)
 - email: lukesburton19@gmail.com
