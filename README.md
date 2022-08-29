@@ -1,6 +1,6 @@
 Hi, I'm Luke!
 
-I'm a computer science student at Western Governers University. I really enjoy learning to code and working on exciting projects.
+I'm a computer science student at Western Governors University. I really enjoy learning to code and working on exciting projects.
 
 
 Right now, I'm learning...
