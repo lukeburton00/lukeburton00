@@ -5,9 +5,7 @@ I'm a computer science student at Western Governers University. I really enjoy l
 
 Right now, I'm learning...
 - backend development with Ruby on Rails 
-- frontend development with React.js 
-- game development in Unity with C#
-
+- frontend development with React.js
 
 Some of my more recent projects include...
 - SmartShifts, my first Rails app, which allows managers to efficiently build a roster of employees and see when they are available to work.
