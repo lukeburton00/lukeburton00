@@ -5,15 +5,16 @@ I'm a computer science student at Western Governors University. I really enjoy l
 
 Right now, I'm learning...
 - backend development with Ruby on Rails 
-- frontend development with React.js
+- Game engine architecture in C++
+- Desktop application development in Java
 
 Some of my more recent projects include...
+- A school project utilizing Java, FXML, JDBC, and MySQL to build a desktop appointment scheduling application.
 - SmartShifts, my first Rails app, which allows managers to efficiently build a roster of employees and see when they are available to work.
-- Ping, a fun Pong clone built in a few hours in Unity featuring a basic computer opponent for singleplayer and single keyboard multiplayer.
+- A 2D C++ game engine with SDL2 and OpenGL
 
 Outside of school and software projects, I love to spend time in the outdoors with activities like backpacking, rock climbing, and tennis!
 
-
 You can reach me through...
-- website: lsburton.com
 - email: lukesburton19@gmail.com
+- Text: 435-375-9723
