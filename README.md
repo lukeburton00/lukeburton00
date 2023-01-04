@@ -4,13 +4,13 @@ I'm a computer science student at Western Governors University. I really enjoy l
 
 
 Right now, I'm learning...
-- backend development with Ruby on Rails 
-- Game engine architecture in C++
-- Desktop application development in Java
+- Ruby on Rails 
+- C++ Game engine systems
+- Java desktop applications
 
 Some of my more recent projects include...
 - A school project utilizing Java, FXML, JDBC, and MySQL to build a desktop appointment scheduling application.
-- SmartShifts, my first Rails app, which allows managers to efficiently build a roster of employees and see when they are available to work.
+- A Rails messaging app featuring mutual friendships and turbo streams for instant messaging
 - A 2D C++ game engine with SDL2 and OpenGL
 
 Outside of school and software projects, I love to spend time in the outdoors with activities like backpacking, rock climbing, and tennis!
