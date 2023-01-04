@@ -9,8 +9,8 @@ Right now, I'm learning...
 - Java desktop applications
 
 Some of my more recent projects include...
-- A school project utilizing Java, FXML, JDBC, and MySQL to build a desktop appointment scheduling application.
 - A Rails messaging app featuring mutual friendships and turbo streams for instant messaging
+- A school project utilizing Java, FXML, JDBC, and MySQL to build a desktop appointment scheduling application.
 - A 2D C++ game engine with SDL2 and OpenGL
 
 Outside of school and software projects, I love to spend time in the outdoors with activities like backpacking, rock climbing, and tennis!
