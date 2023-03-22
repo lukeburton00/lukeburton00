@@ -17,4 +17,4 @@ Outside of school and software projects, I love to spend time in the outdoors wi
 
 You can reach me through...
 - email: lukesburton19@gmail.com
-- Text: 435-375-9723
+- Text or call: 435-375-9723
