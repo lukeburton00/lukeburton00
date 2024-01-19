@@ -8,7 +8,7 @@ Right now, I'm learning...
 - Ruby on Rails
 
 Some of my more recent projects include...
-- A freelance project building an AI content helper for Instagram professionals - www.monocle.social - Ruby on Rails
+- www.monocle.social - A freelance project building an AI content helper for Instagram professionals - Ruby on Rails
 - A 2D C++ and OpenGL game engine
 - A school project utilizing Java, FXML, JDBC, and MySQL to build a desktop appointment scheduling application.
 
